@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+}
+
+.one {
+  height: 300px;
+  width: 300px;
+  /* padding: 30px;
+  border: 20px outset pink;
+  border-radius: 12px;
+  margin: 50px;
+  display: inline-block; */
+  background-color: red;
+}
+
+.child{
+    height: 100px;
+    width: 50%;
+    background-color: blue;
+}
